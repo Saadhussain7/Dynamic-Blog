@@ -21,7 +21,7 @@ export default function AuthoreCard() {
 
 
             <p className="mt-4 text-black leading-relaxed">
-                Saad Hussain is a student of Cyber Security and also a passionate Web Developer. ''I'm a proactive computer student with strong programming skills, excited about web development and software engineering. I aim to utilize my coding expertise to create innovative applications that elevate user experiences and drive technological progress.''
+                Saad Hussain is a student of Cyber Security and also a passionate Web Developer. I am a proactive computer student with strong programming skills, excited about web development and software engineering. I aim to utilize my coding expertise to create innovative applications that elevate user experiences and drive technological progress
             </p>
 
             <div className="mt-4 flex space-x-3">

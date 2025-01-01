@@ -12,9 +12,6 @@ interface BlogCardProps {
 }
 
 export default function BlogCard({ post, isDarkBackground }: BlogCardProps) {
-  function newDate() {
-    throw new Error("Function not implemented.");
-  }
   return (
     <Card
       className={`p-4 ${
